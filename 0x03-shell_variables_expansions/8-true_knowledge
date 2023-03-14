@@ -1,4 +1,4 @@
 #!/bin/bash
-export TRUEKNOWLEDGE='0'
-echo $(($TRUEKNOWLEDGE+128))
+export TRUEKNOWLEDGE='0' echo $(($TRUEKNOWLEDGE+128))
+
 

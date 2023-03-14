@@ -1,4 +1,2 @@
-#!/bin/bash
-export TRUEKNOWLEDGE='0' echo $(($TRUEKNOWLEDGE+128))
-
-
+#!/bin/bash)
+echo $((128 + $TRUEKNOWLEDGE))
